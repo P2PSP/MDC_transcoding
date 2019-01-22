@@ -1,4 +1,7 @@
 # MDC_transcoding
+
+[![Join the chat at https://gitter.im/P2PSP/MDC_transcoding](https://badges.gitter.im/P2PSP/MDC_transcoding.svg)](https://gitter.im/P2PSP/MDC_transcoding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A Multiple Description Transcoder for OGG streams
 
 [Multiple Description Coding(MDC)](https://en.wikipedia.org/wiki/Multiple_description_coding) is a coding technique that can improve real-time communications in variable-bandwidth transmission contexts. On the other hand, the [Multi-Channel Set (MCS)](https://p2psp.github.io/#x1-240009) can be used to receive more than one stream simultaneously.
